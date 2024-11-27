@@ -47,3 +47,4 @@ The notebook visualizes:
 
 - Scatter plot of actual salary data.
 - Predicted regression line over the input range.
+![SVR Visualization](SVR.png)
